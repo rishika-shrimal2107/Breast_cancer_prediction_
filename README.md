@@ -24,7 +24,7 @@ Install all required packages :
 
 ## ➲The Dataset
 
-The dataset contains information related to breast cancer, curated for the purpose of predictive modeling. It comprises six columns capturing crucial attributes associated with breast cancer diagnosis. The target column "diagnosis" which describe  either it is positove or negative.
+The dataset contains information related to breast cancer, curated for the purpose of predictive modeling. It comprises six columns capturing crucial attributes associated with breast cancer diagnosis. The target column "diagnosis" which describe  either it is 1 = malignant or 0 = benign.
 
 **Dataset features and target:**
 
