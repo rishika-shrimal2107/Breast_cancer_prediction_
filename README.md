@@ -90,12 +90,12 @@ Type of Classifiers | Training accuracy | Testing accuracy |
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/rishika_shrimal2107/Breast_cancer_prediction.git
+   git clone https://github.com/rishika_shrimal2107/Breast_cancer_prediction_.git
    ```
 
    2. **Run the code from cmd:**
    ```bash
-   python Breast_cancer_prediction.py
+   python Breast_cancer_prediction_.py
    ```
 
    ## ➲Contact
