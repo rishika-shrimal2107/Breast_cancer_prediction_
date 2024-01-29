@@ -61,7 +61,6 @@ from sklearn import metrics  # for checking the accuracy
 from sklearn.neighbors import KNeighborsClassifier # for K neighbor classifier
 from sklearn.tree import DecisionTreeClassifier #for decision tree classifier
 from sklearn.naive_bayes import GaussianNB  #for naive bayes classifier
-from sklearn.naive_bayes import MultinomialNB # for naive bayes classifier
 from sklearn.ensemble import RandomForestClassifier #for Random Forest
 from sklearn.ensemble import GradientBoostClassifier # Boost
 from sklearn.ensemble import BaggingClassifier # Bagging
