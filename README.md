@@ -72,12 +72,12 @@ from sklearn.svm import SVC # for SVM
 
 Type of Classifiers | Training accuracy | Testing accuracy |
 :---:|:---:|---:
-**Decision Tree Classifier** | 100.0% | 92.0% | 
-**Bagging Classifier** | 99.0% | 93.0% | 
-**Gradient Boosting Classifier** | 100.0% | 94.0% |
+**Decision Tree Classifier** | 99.0% | 92.0% | 
+**Bagging Classifier** | 98.0% | 93.0% | 
+**Gradient Boosting Classifier** | 99.0% | 94.0% |
 **Naive Bayes GaussianNB** | 90.0% | 95.0% | 
-**Random Forest Classifier** | 100.0% | 94.0% |
-**K-Neighbors Classifier** | 100.0% | 94.0% | 
+**Random Forest Classifier** | 99.0% | 94.0% |
+**K-Neighbors Classifier** | 99.0% | 94.0% | 
 **Logistic Regression** | 93.0% | 94.0% |
 **SVM Linear** | 93.0% | 94.0% | 
 **SVM rbf** | 94.0% | 95.0% | 
