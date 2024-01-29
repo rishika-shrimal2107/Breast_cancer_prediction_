@@ -28,7 +28,7 @@ The dataset contains information related to breast cancer, curated for the purpo
 
 **Dataset features and target:**
 
-![Project Logo/Image](https://github.com/rishika-shrimal2107/Breast_cancer_prediction/blob/main/Image/Screenshot%202024-01-29%20080612.png)
+![Project Logo/Image](https://github.com/rishika-shrimal2107/Breast_cancer_prediction_/blob/main/Images/Screenshot%202024-01-29%20080612.png)
 
 ## ➲Dataset Description
 The Data description is as follows:
