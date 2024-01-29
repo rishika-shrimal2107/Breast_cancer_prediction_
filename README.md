@@ -47,7 +47,7 @@ The Data description is as follows:
 
 **Dataset head:**
 
-![Project Logo/Image](https://github.com/rishika-shrimal2107/Breast_cancer_prediction/blob/main/Image/Screenshot%202024-01-29%20064517.png)
+![Project Logo/Image](https://github.com/rishika-shrimal2107/Breast_cancer_prediction_/blob/main/Images/Screenshot%202024-01-29%20064517.png)
 
 ### Libraries used
 ```python
